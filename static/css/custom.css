@@ -1,0 +1,6 @@
+.sep-after::after {
+  border-bottom-color:#f0f0f0 !important;  
+}
+.sep-before:before{
+  border-bottom-color:#f0f0f0 !important;
+}
